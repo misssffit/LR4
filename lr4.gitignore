@@ -1,0 +1,17 @@
+#LR_4
+
+*.txt
+
+*.pdf
+
+*.a
+
+!lib.a
+
+/TODO
+
+build/
+
+doc/*.txt
+
+doc/**/*.pdf
